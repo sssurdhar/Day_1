@@ -1,0 +1,41 @@
+header {
+	padding:8px,6px,8px,6px;
+}
+
+p {
+	color:green;
+	background-color:transparent;
+}
+
+section header {
+	text-align:center;
+}
+
+header h1 {
+	font-size: 3.2em
+}
+
+aside section p {
+	font-family:arial;
+	text-decoration:underline;
+	color:white;
+	background-color:transparent;
+}
+
+ul {
+	list-style-type: square;
+}
+
+.favoriteColor {
+	color:#3343F2;
+}
+
+.bucketList {
+	text-align:left;
+	color:white;
+	text-decoration:underline;
+}
+
+.blogImage {
+	font-size: 1.2em;
+}
